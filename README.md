@@ -1,2 +1,3 @@
 # pillarsalt-project
-Hardware modification and customization
+hardware modification and customization programming: 
+GFS-220 Banknote Counter/Sorter
